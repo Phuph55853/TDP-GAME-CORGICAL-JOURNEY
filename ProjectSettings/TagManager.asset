@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Goal
   - GreenPoint
+  - Win
   layers:
   - Default
   - TransparentFX
